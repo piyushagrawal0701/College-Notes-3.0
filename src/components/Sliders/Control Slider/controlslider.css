@@ -1,0 +1,79 @@
+.donation-slider-filter-btn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 10px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-width: 90px;
+  width: 110px;
+  height: 90px;
+  padding: 15px;
+  border: 2px solid lightgray;
+  border-radius: 15px;
+  font-size: smaller;
+  text-transform: uppercase;
+  font-weight: bold;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.donation-slider-filter-btn:last-child {
+  font-size: small;
+}
+
+.donation-slider-filter-btn ion-icon {
+  font-size: xx-large;
+}
+
+.active {
+  background: #227db7;
+  color: white;
+  border: 2px solid #227db7;
+}
+
+
+/* .dishes-slider-box img:hover{
+  scale: 1.05;
+  transition: all 0.3s ease-in;
+  color: black !important;
+
+}
+.dishes-slider-box img{
+  transition: all 0.3s ease-in;
+  cursor: pointer !important;
+} */
+
+.items-slider-box{
+  -webkit-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  background-color: white;
+  border-radius: 15px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+          box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.white-box{
+  background-color: white;
+  padding: 10px 15px;
+  border-radius: 15px;
+
+}
+
+.items-slider-box:hover{
+  color: black;
+  cursor: pointer !important;
+  -webkit-transform: translateY(-10px);
+      -ms-transform: translateY(-10px);
+          transform: translateY(-10px);
+  -webkit-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+
+}
