@@ -7,48 +7,56 @@ const subjects = [
   {
     id: 1,
     subName: "Computer System Organization",
-    webUrl: "https://youtu.be/irqbmMNs2Bo?si=zfjEldyOJJ9MwVM1",
+    webUrl:
+      "https://drive.google.com/drive/folders/17Vba7McTZrkBP_n2TRVHsPe_btoGJ4gP?usp=drive_link",
   },
   {
     id: 2,
     subName: "Maths 3 Sem",
-    webUrl: "https://youtu.be/fqF9M92jzUo?si=g0E56UohhFj-UP5H",
+    webUrl:
+      "https://drive.google.com/drive/folders/16aLHVhEmCpMQ1Pk5pC1WCq5PhvtaCei0?usp=drive_link",
   },
   {
     id: 3,
     subName: "Analysis of design of algorithm",
-    webUrl: "https://youtu.be/UmnCZ7-9yDY?si=GaoF-tZTChFgvJGM",
+    webUrl:
+      "https://drive.google.com/drive/folders/1ISGcZDyWk2GSLXjEhfbimi8YyIS7Cs1t?usp=drive_link",
   },
   {
     id: 4,
     subName: "Communication system",
     webUrl:
-      "https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+      "https://drive.google.com/drive/folders/100vYyh-JqqBtYRsMbmS6ONyEQgxWk_0a?usp=drive_link",
   },
   {
     id: 5,
     subName: "Object-oriented Programming",
-    webUrl: "https://youtu.be/56xvk6OHTpM?si=jrEN9ujArbmjEnv-",
+    webUrl:
+      "https://drive.google.com/drive/folders/1CLSpYOap4-JUwCWNW6KUCZ7KYnSgQ8ek?usp=drive_link",
   },
   {
     id: 6,
     subName: "Computer Network",
-    webUrl: "https://youtu.be/HcOc7P5BMi4?si=I50RR4Zdqd1ViWwa",
+    webUrl:
+      "https://drive.google.com/drive/folders/1AOz9dnBYhY7a35SzLiQW6V3oe3wu12dO?usp=drive_link",
   },
   {
     id: 7,
     subName: "Automata & Compiler Design",
-    webUrl: "https://youtu.be/ESnrn1kAD4E?si=32c2A2gSz2VSOv7g",
+    webUrl:
+      "https://drive.google.com/drive/folders/1RrywSRufe47nPSj9i5vSnvvuKcMSjzuD?usp=drive_link",
   },
   {
     id: 8,
     subName: "Software Enggineering",
-    webUrl: "https://youtu.be/VlPiVmYuoqw?si=e8rTb6RtxXJmbq3i",
+    webUrl:
+      "https://drive.google.com/drive/folders/1JAOi_NnJ7tvIMky_wn_nr3xdVb_M3kT9?usp=drive_link",
   },
   {
     id: 9,
     subName: "DBMS",
-    webUrl: "https://youtu.be/VlPiVmYuoqw?si=e8rTb6RtxXJmbq3i",
+    webUrl:
+      "https://drive.google.com/drive/folders/1xqbWiGc2R988PFWaJOy43gOb24PoucaP?usp=drive_link",
   },
 ];
 const SecondYear = () => {
@@ -79,7 +87,11 @@ const SecondYear = () => {
                         Download Notes
                       </p>
                     </Link>
-                    <p class="leading-relaxed text-base pl-2">Download PYQs</p>
+                    <a href="https://drive.google.com/drive/folders/1fELj5HSyAXxO6nzKOLcX-R7Ca-dq-loi?usp=drive_link">
+                      <p class="leading-relaxed text-base pl-2">
+                        Download PYQs
+                      </p>
+                    </a>
                   </div>
                 </div>
               </div>

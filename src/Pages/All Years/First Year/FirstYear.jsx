@@ -7,48 +7,62 @@ const subjects = [
   {
     id: 1,
     subName: "Digital Electronics",
-    webUrl: "https://youtu.be/irqbmMNs2Bo?si=zfjEldyOJJ9MwVM1",
+    webUrl:
+      "https://drive.google.com/drive/folders/1sZHxnQdZ6lSNR-giP25GIY4l8nie8Mfr?usp=drive_link",
   },
   {
     id: 2,
     subName: "Maths 1 Sem",
-    webUrl: "https://youtu.be/fqF9M92jzUo?si=g0E56UohhFj-UP5H",
+    webUrl:
+      "https://drive.google.com/drive/folders/1p5VphPF45coA1M3QzTTRF0wfd-E91joU?usp=drive_link",
   },
   {
     id: 3,
     subName: "Maths 2 Sem",
-    webUrl: "https://youtu.be/UmnCZ7-9yDY?si=GaoF-tZTChFgvJGM",
+    webUrl:
+      "https://drive.google.com/drive/folders/1oJJ2x7TgpdxaC38fdfEmm6S55YP9KlXG?usp=sharing",
   },
   {
     id: 4,
     subName: "Chemistry",
     webUrl:
-      "https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+      "https://drive.google.com/drive/folders/1agT_ZRoWiCItx8J38EcbMr13nMMJym_x?usp=drive_link",
   },
   {
     id: 5,
     subName: "Applied Physics",
-    webUrl: "https://youtu.be/56xvk6OHTpM?si=jrEN9ujArbmjEnv-",
+    webUrl:
+      "https://drive.google.com/drive/folders/1_iuxjwwPGYWZUowvhe76Uv9rU-y350iu?usp=drive_link",
   },
   {
     id: 6,
     subName: "Computer Science",
-    webUrl: "https://youtu.be/HcOc7P5BMi4?si=I50RR4Zdqd1ViWwa",
+    webUrl:
+      "https://drive.google.com/drive/folders/1xQH3CVFSRmA7pmkeEzB9MA4AVwQSgFic?usp=drive_link",
   },
   {
     id: 7,
-    subName: "Software System",
-    webUrl: "https://youtu.be/ESnrn1kAD4E?si=32c2A2gSz2VSOv7g",
+    subName: "Principal of Software System",
+    webUrl:
+      "https://drive.google.com/drive/folders/1_N-psxPMmBjJNirWaiC5-TwO80HP6_Qn?usp=sharing",
   },
   {
     id: 8,
     subName: "Python Programming",
-    webUrl: "https://youtu.be/VlPiVmYuoqw?si=e8rTb6RtxXJmbq3i",
+    webUrl:
+      "https://drive.google.com/drive/folders/1K9qbMCMWVardob550SwqFBj2abh_py5B?usp=sharing",
   },
   {
     id: 9,
-    subName: "Communication System",
-    webUrl: "https://youtu.be/VlPiVmYuoqw?si=e8rTb6RtxXJmbq3i",
+    subName: "Communication (ENGLISH)",
+    webUrl:
+      "https://drive.google.com/drive/folders/1tlXkjJd0F_i8Ztqex62EdxFIjFah9Pdi?usp=drive_link",
+  },
+  {
+    id: 9,
+    subName: "Data Structure & Algorithm",
+    webUrl:
+      "https://drive.google.com/drive/folders/1tHZmBWukQfowJk9-zf8OXzMNtE3yr709?usp=drive_link",
   },
 ];
 const FirstYear = () => {
@@ -79,7 +93,11 @@ const FirstYear = () => {
                         Download Notes
                       </p>
                     </Link>
-                    <p class="leading-relaxed text-base pl-2">Download PYQs</p>
+                    <a href="https://drive.google.com/drive/folders/1LHr-n8VYkNtuUHwZ_i0Thf12U0CAlBdz?usp=sharing">
+                      <p class="leading-relaxed text-base pl-2">
+                        Download PYQs
+                      </p>
+                    </a>
                   </div>
                 </div>
               </div>

@@ -7,48 +7,56 @@ const subjects = [
   {
     id: 1,
     subName: "Mobile Application Development",
-    webUrl: "https://youtu.be/irqbmMNs2Bo?si=zfjEldyOJJ9MwVM1",
+    webUrl:
+      "https://drive.google.com/drive/folders/1cwlryABTHCNhzCGJhj-Cn4p3XVwPIbef?usp=sharing",
   },
   {
     id: 2,
     subName: "Digital Image Processing",
-    webUrl: "https://youtu.be/fqF9M92jzUo?si=g0E56UohhFj-UP5H",
+    webUrl:
+      "https://drive.google.com/drive/folders/1546XffZ8fnVDeCHPavh1SnLkZKyHQc6y?usp=drive_link",
   },
   {
     id: 3,
     subName: "Artificial Intelligence",
-    webUrl: "https://youtu.be/UmnCZ7-9yDY?si=GaoF-tZTChFgvJGM",
+    webUrl:
+      "https://drive.google.com/drive/folders/1bPwpGaX0zd9PtLFx3IktglGWJTmp8Ryn?usp=drive_link",
   },
   {
     id: 4,
     subName: "A Practical Approach of English",
     webUrl:
-      "https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+      "https://drive.google.com/drive/folders/1I6hYHxIQSRhvT1FDCM_Km8b1P_Jqd1-9?usp=drive_link",
   },
   {
     id: 5,
     subName: "Wireless & Mobile Computing",
-    webUrl: "https://youtu.be/56xvk6OHTpM?si=jrEN9ujArbmjEnv-",
+    webUrl:
+      "https://drive.google.com/drive/folders/1-l48PWwH4lUJcmsWNWjsuIhSUOEF4Cm1?usp=sharing",
   },
   {
     id: 6,
     subName: "Data Mining & Warehousing",
-    webUrl: "https://youtu.be/HcOc7P5BMi4?si=I50RR4Zdqd1ViWwa",
+    webUrl:
+      "https://drive.google.com/drive/folders/1H9tYSbHrSuLv09ns8MSc9WO_McHJXAF4?usp=drive_link",
   },
   {
     id: 7,
     subName: "Cloud Computing",
-    webUrl: "https://youtu.be/ESnrn1kAD4E?si=32c2A2gSz2VSOv7g",
+    webUrl:
+      "https://drive.google.com/drive/folders/1C_ilVZg7aeSUTEPbKcqWDfu-9lZs7rte?usp=drive_link",
   },
   {
     id: 8,
     subName: "Information Security",
-    webUrl: "https://youtu.be/VlPiVmYuoqw?si=e8rTb6RtxXJmbq3i",
+    webUrl:
+      "https://drive.google.com/drive/folders/1jflIokaNi5eB4NtZ_o1dZd3c_VOCRb60?usp=drive_link",
   },
   {
     id: 9,
     subName: "Web Application Development",
-    webUrl: "https://youtu.be/VlPiVmYuoqw?si=e8rTb6RtxXJmbq3i",
+    webUrl:
+      "https://drive.google.com/drive/folders/1N1yQ6OJLPTX5603f2RQaB5dq2lpRZHCp?usp=drive_link",
   },
 ];
 const ThirdYear = () => {
@@ -79,7 +87,11 @@ const ThirdYear = () => {
                         Download Notes
                       </p>
                     </Link>
-                    <p class="leading-relaxed text-base pl-2">Download PYQs</p>
+                    <a href="https://drive.google.com/drive/folders/1fvFHMNbvCSsosuzFzuwydbWVkH6NI0sC?usp=sharing">
+                      <p class="leading-relaxed text-base pl-2">
+                        Download PYQs
+                      </p>
+                    </a>
                   </div>
                 </div>
               </div>
